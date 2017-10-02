@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello Guys How are You Welcome to Git Account.
 
 Hello database code
+=======
+Hello Guys How are You Welcome to Git Account.
+>>>>>>> 99d364e079d901500be7bdd9d8f85c89507f41b4
